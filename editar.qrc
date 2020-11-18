@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="editar">
+    <file>icons8-borrar-96.png</file>
+  </qresource>
+</RCC>

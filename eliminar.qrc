@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="eliminar">
+    <file>icons8-eliminar-128.png</file>
+  </qresource>
+</RCC>

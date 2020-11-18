@@ -1,0 +1,11 @@
+link convertir archivos qrc a modulos
+https://stackoverflow.com/questions/15749707/importing-a-resource-file
+
+Color combo box
+https://www.geeksforgeeks.org/pyqt5-set-background-color-to-view-part-of-combobox/
+
+Iconos
+https://iconos8.es/icons/set/actualizar
+
+Como añadir imagenes
+https://www.youtube.com/watch?v=TRKebElniyo

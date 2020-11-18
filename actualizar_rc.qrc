@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="actualizar">
+    <file>icons8-editar-80.png</file>
+  </qresource>
+</RCC>
